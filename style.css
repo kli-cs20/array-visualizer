@@ -8,3 +8,8 @@ body {
     height: 400px;
     margin: auto;
 }
+
+#container div {
+    background-color: orange;
+    border: 1px solid grey;
+}
